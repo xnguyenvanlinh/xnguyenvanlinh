@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Linh</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
-
+<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" style="width:100%;object-fit:cover" />
 - 🔭 I’m currently working on [FPT Polytechnic](https://www.facebook.com/fpt.poly)
 
 - 🌱 I’m currently learning **ReactJS**
@@ -16,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/xnguyenvanlinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="xnguyenvanlinh" height="30" width="40" /></a>
+<a href="https://dev.to/xnguyenvanlinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="xnguyenvanlinh" height="30" width="40" /></a>
 <a href="https://twitter.com/xnguyenvanlinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xnguyenvanlinh" height="30" width="40" /></a>
 <a href="https://codesandbox.com/xnguyenvanlinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="xnguyenvanlinh" height="30" width="40" /></a>
 <a href="https://fb.com/xnguyenvanlinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xnguyenvanlinh" height="30" width="40" /></a>
