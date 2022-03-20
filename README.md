@@ -26,7 +26,6 @@ I'm Linh from VietNam, and I do content on Design and Development. I really enjo
 <a href="https://instagram.com/xnguyenvanlinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xnguyenvanlinh" height="30" width="40" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xnguyenvanlinh)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xnguyenvanlinh&show_icons=true)  
 
