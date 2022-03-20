@@ -4,7 +4,7 @@
 
 I'm Linh from VietNam, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, UI, Ux and Design in general.
 <br/>
-<img align="right" alt="Coding" style="margin-top:40px" width="350"  src="https://i.pinimg.com/originals/85/4f/c1/854fc143b9a24759505e50f74cbc054a.gif">
+<img align="right" alt="Coding" style="padding-top:40px" width="350"  src="https://i.pinimg.com/originals/85/4f/c1/854fc143b9a24759505e50f74cbc054a.gif">
 - 🔭 I’m currently working on [FPT Polytechnic](https://www.facebook.com/fpt.poly)
 
 - 🌱 I’m currently learning **ReactJS**
