@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Linh</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
-<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" style="width:100%;object-fit:cover" />
 - 🔭 I’m currently working on [FPT Polytechnic](https://www.facebook.com/fpt.poly)
 
 - 🌱 I’m currently learning **ReactJS**
