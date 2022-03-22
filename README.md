@@ -29,7 +29,7 @@ I'm Linh from VietNam, and I do content on Design and Development. I really enjo
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xnguyenvanlinh&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=xnguyenvanlinh)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=xnguyenvanlinh&&theme=xcode)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=xnguyenvanlinh)  
  
